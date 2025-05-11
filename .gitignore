@@ -1,0 +1,14 @@
+# Node
+**/node_modules/
+**/dist/
+
+# Java
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+
+# Others
+.DS_Store
+*.log
+.env
